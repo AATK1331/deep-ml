@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T03:03:55.765Z",
+  "generated_at": "2026-10-31T04:01:40.157Z",
   "items": {
     "math:187": {
       "kind": "math",
@@ -22,6 +22,17 @@
       "path": "math/0016-eigendecomposition-and-svd",
       "first_solved_at": "2026-10-31T03:03:54.158Z",
       "last_pushed_at": "2026-10-31T03:03:54.158Z"
+    },
+    "math:189": {
+      "kind": "math",
+      "id": "189",
+      "title": "The Graph Laplacian, Its Eigenvectors and Spectral Clustering",
+      "difficulty": "medium",
+      "category": "Graph Neural Networks",
+      "url": "https://www.deep-ml.com/math-problems/189",
+      "path": "math/0189-the-graph-laplacian-its-eigenvectors-and-spectral-clustering",
+      "first_solved_at": "2026-10-31T04:01:38.435Z",
+      "last_pushed_at": "2026-10-31T04:01:38.435Z"
     }
   }
 }
