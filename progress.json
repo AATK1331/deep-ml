@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T14:05:47.833Z",
+  "generated_at": "2026-10-31T03:03:55.765Z",
   "items": {
     "math:187": {
       "kind": "math",
@@ -11,6 +11,17 @@
       "path": "math/0187-adjacency-degree-and-the-normalized-adjacency-matrix",
       "first_solved_at": "2026-10-29T14:05:42.161Z",
       "last_pushed_at": "2026-10-29T14:05:42.161Z"
+    },
+    "math:16": {
+      "kind": "math",
+      "id": "16",
+      "title": "Eigendecomposition and SVD",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/16",
+      "path": "math/0016-eigendecomposition-and-svd",
+      "first_solved_at": "2026-10-31T03:03:54.158Z",
+      "last_pushed_at": "2026-10-31T03:03:54.158Z"
     }
   }
 }
