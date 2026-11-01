@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**4** solved · 1 problems · 0 labs · 3 math
+**5** solved · 2 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Graph Representations: Edge Lists, CSR and the Normalized Adjacency](https://www.deep-ml.com/problems/1472) | easy | 2026-11-01 | [solution](problems/1472-graph-representations-edge-lists-csr-and-the-normalized-adjacency) |
 | [Number of Islands (Grid Connected Components)](https://www.deep-ml.com/problems/1186) | medium | 2026-11-01 | [solution](problems/1186-number-of-islands-grid-connected-components) |
 
 ## Math

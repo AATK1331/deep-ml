@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T07:55:25.534Z",
+  "generated_at": "2026-11-01T07:55:39.895Z",
   "items": {
     "math:187": {
       "kind": "math",
@@ -46,6 +46,19 @@
       "last_pushed_at": "2026-11-01T07:55:23.376Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:1472": {
+      "kind": "problem",
+      "id": "1472",
+      "title": "Graph Representations: Edge Lists, CSR and the Normalized Adjacency",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1472",
+      "path": "problems/1472-graph-representations-edge-lists-csr-and-the-normalized-adjacency",
+      "first_solved_at": "2026-11-01T07:55:37.719Z",
+      "last_pushed_at": "2026-11-01T07:55:37.719Z",
+      "language": "python",
+      "lines": 65
     }
   }
 }
