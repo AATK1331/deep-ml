@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T04:01:40.157Z",
+  "generated_at": "2026-11-01T07:55:25.534Z",
   "items": {
     "math:187": {
       "kind": "math",
@@ -33,6 +33,19 @@
       "path": "math/0189-the-graph-laplacian-its-eigenvectors-and-spectral-clustering",
       "first_solved_at": "2026-10-31T04:01:38.435Z",
       "last_pushed_at": "2026-10-31T04:01:38.435Z"
+    },
+    "problem:1186": {
+      "kind": "problem",
+      "id": "1186",
+      "title": "Number of Islands (Grid Connected Components)",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1186",
+      "path": "problems/1186-number-of-islands-grid-connected-components",
+      "first_solved_at": "2026-11-01T07:55:23.376Z",
+      "last_pushed_at": "2026-11-01T07:55:23.376Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
