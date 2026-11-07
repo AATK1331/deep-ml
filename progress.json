@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T07:55:39.895Z",
+  "generated_at": "2026-11-07T03:30:40.258Z",
   "items": {
     "math:187": {
       "kind": "math",
@@ -59,6 +59,19 @@
       "last_pushed_at": "2026-11-01T07:55:37.719Z",
       "language": "python",
       "lines": 65
+    },
+    "problem:1614": {
+      "kind": "problem",
+      "id": "1614",
+      "title": "QK and OV Circuits from Head Weights",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1614",
+      "path": "problems/1614-qk-and-ov-circuits-from-head-weights",
+      "first_solved_at": "2026-11-07T03:30:38.104Z",
+      "last_pushed_at": "2026-11-07T03:30:38.104Z",
+      "language": "python",
+      "lines": 39
     }
   }
 }
