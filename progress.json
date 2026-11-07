@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T03:30:40.258Z",
+  "generated_at": "2026-11-07T06:55:53.492Z",
   "items": {
     "math:187": {
       "kind": "math",
@@ -72,6 +72,19 @@
       "last_pushed_at": "2026-11-07T03:30:38.104Z",
       "language": "python",
       "lines": 39
+    },
+    "problem:1473": {
+      "kind": "problem",
+      "id": "1473",
+      "title": "PageRank by Power Iteration",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1473",
+      "path": "problems/1473-pagerank-by-power-iteration",
+      "first_solved_at": "2026-11-07T06:55:52.977Z",
+      "last_pushed_at": "2026-11-07T06:55:52.977Z",
+      "language": "python",
+      "lines": 50
     }
   }
 }
