@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**9** solved · 5 problems · 0 labs · 4 math
+**10** solved · 6 problems · 0 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Number of Islands (Grid Connected Components)](https://www.deep-ml.com/problems/1186) | medium | 2026-11-01 | [solution](problems/1186-number-of-islands-grid-connected-components) |
 | [PageRank by Power Iteration](https://www.deep-ml.com/problems/1473) | medium | 2026-11-07 | [solution](problems/1473-pagerank-by-power-iteration) |
 | [QK and OV Circuits from Head Weights](https://www.deep-ml.com/problems/1614) | medium | 2026-11-07 | [solution](problems/1614-qk-and-ov-circuits-from-head-weights) |
+| [Spectral Clustering via Graph Laplacian](https://www.deep-ml.com/problems/824) | medium | 2026-11-08 | [solution](problems/0824-spectral-clustering-via-graph-laplacian) |
 
 ## Math
 
