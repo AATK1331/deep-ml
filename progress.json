@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T04:23:27.207Z",
+  "generated_at": "2026-11-08T12:03:09.497Z",
   "items": {
     "math:187": {
       "kind": "math",
@@ -122,6 +122,17 @@
       "last_pushed_at": "2026-11-08T04:23:24.732Z",
       "language": "python",
       "lines": 64
+    },
+    "math:63": {
+      "kind": "math",
+      "id": "63",
+      "title": "Arithmetic Intensity of Matmul vs Decode Attention",
+      "difficulty": "medium",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/63",
+      "path": "math/0063-arithmetic-intensity-of-matmul-vs-decode-attention",
+      "first_solved_at": "2026-11-08T12:02:55.192Z",
+      "last_pushed_at": "2026-11-08T12:02:55.192Z"
     }
   }
 }
