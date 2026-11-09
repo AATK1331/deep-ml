@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**11** solved · 6 problems · 0 labs · 5 math
+**12** solved · 7 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Graph Representations: Edge Lists, CSR and the Normalized Adjacency](https://www.deep-ml.com/problems/1472) | easy | 2026-11-01 | [solution](problems/1472-graph-representations-edge-lists-csr-and-the-normalized-adjacency) |
 | [Neighborhood Aggregation and the k-Hop Receptive Field](https://www.deep-ml.com/problems/1474) | easy | 2026-11-07 | [solution](problems/1474-neighborhood-aggregation-and-the-k-hop-receptive-field) |
+| [Implement Graph Convolution Network (GCN) Layer](https://www.deep-ml.com/problems/453) | medium | 2026-11-09 | [solution](problems/0453-implement-graph-convolution-network-gcn-layer) |
 | [Number of Islands (Grid Connected Components)](https://www.deep-ml.com/problems/1186) | medium | 2026-11-01 | [solution](problems/1186-number-of-islands-grid-connected-components) |
 | [PageRank by Power Iteration](https://www.deep-ml.com/problems/1473) | medium | 2026-11-07 | [solution](problems/1473-pagerank-by-power-iteration) |
 | [QK and OV Circuits from Head Weights](https://www.deep-ml.com/problems/1614) | medium | 2026-11-07 | [solution](problems/1614-qk-and-ov-circuits-from-head-weights) |

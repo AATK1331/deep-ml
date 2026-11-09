@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T12:03:09.497Z",
+  "generated_at": "2026-11-09T01:52:25.790Z",
   "items": {
     "math:187": {
       "kind": "math",
@@ -133,6 +133,19 @@
       "path": "math/0063-arithmetic-intensity-of-matmul-vs-decode-attention",
       "first_solved_at": "2026-11-08T12:02:55.192Z",
       "last_pushed_at": "2026-11-08T12:02:55.192Z"
+    },
+    "problem:453": {
+      "kind": "problem",
+      "id": "453",
+      "title": "Implement Graph Convolution Network (GCN) Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/453",
+      "path": "problems/0453-implement-graph-convolution-network-gcn-layer",
+      "first_solved_at": "2026-11-09T01:52:24.336Z",
+      "last_pushed_at": "2026-11-09T01:52:24.336Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
