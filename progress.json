@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T12:42:41.094Z",
+  "generated_at": "2026-11-09T13:32:16.108Z",
   "items": {
     "math:187": {
       "kind": "math",
@@ -170,6 +170,17 @@
       "last_pushed_at": "2026-11-09T12:42:39.921Z",
       "language": "python",
       "lines": 26
+    },
+    "math:190": {
+      "kind": "math",
+      "id": "190",
+      "title": "Message Passing as a Framework: Permutation Equivariance and Invariance",
+      "difficulty": "medium",
+      "category": "Graph Neural Networks",
+      "url": "https://www.deep-ml.com/math-problems/190",
+      "path": "math/0190-message-passing-as-a-framework-permutation-equivariance-and-invariance",
+      "first_solved_at": "2026-11-09T13:32:15.142Z",
+      "last_pushed_at": "2026-11-09T13:32:15.142Z"
     }
   }
 }
