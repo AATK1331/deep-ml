@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T01:52:25.790Z",
+  "generated_at": "2026-11-09T12:00:31.491Z",
   "items": {
     "math:187": {
       "kind": "math",
@@ -146,6 +146,17 @@
       "last_pushed_at": "2026-11-09T01:52:24.336Z",
       "language": "python",
       "lines": 25
+    },
+    "math:64": {
+      "kind": "math",
+      "id": "64",
+      "title": "Roofline: Time is the Max of Bytes/BW and FLOPs/Peak",
+      "difficulty": "medium",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/64",
+      "path": "math/0064-roofline-time-is-the-max-of-bytes-bw-and-flops-peak",
+      "first_solved_at": "2026-11-09T12:00:30.069Z",
+      "last_pushed_at": "2026-11-09T12:00:30.069Z"
     }
   }
 }
