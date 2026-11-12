@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T01:41:33.911Z",
+  "generated_at": "2026-11-12T03:27:23.238Z",
   "items": {
     "math:187": {
       "kind": "math",
@@ -194,6 +194,19 @@
       "last_pushed_at": "2026-11-12T01:41:30.587Z",
       "language": "python",
       "lines": 32
+    },
+    "problem:1475": {
+      "kind": "problem",
+      "id": "1475",
+      "title": "GraphSAGE: Mean and Pool Aggregators with Neighbor Sampling",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1475",
+      "path": "problems/1475-graphsage-mean-and-pool-aggregators-with-neighbor-sampling",
+      "first_solved_at": "2026-11-12T03:27:22.221Z",
+      "last_pushed_at": "2026-11-12T03:27:22.221Z",
+      "language": "python",
+      "lines": 66
     }
   }
 }
