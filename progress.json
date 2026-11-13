@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T03:27:23.238Z",
+  "generated_at": "2026-11-13T02:31:02.287Z",
   "items": {
     "math:187": {
       "kind": "math",
@@ -207,6 +207,19 @@
       "last_pushed_at": "2026-11-12T03:27:22.221Z",
       "language": "python",
       "lines": 66
+    },
+    "problem:417": {
+      "kind": "problem",
+      "id": "417",
+      "title": "Classify LLM Prefill vs Decode as Compute-Bound or Memory-Bound",
+      "difficulty": "medium",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/417",
+      "path": "problems/0417-classify-llm-prefill-vs-decode-as-compute-bound-or-memory-bound",
+      "first_solved_at": "2026-11-13T02:30:58.362Z",
+      "last_pushed_at": "2026-11-13T02:30:58.362Z",
+      "language": "python",
+      "lines": 70
     }
   }
 }
