@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**20** solved · 13 problems · 0 labs · 7 math
+**21** solved · 14 problems · 0 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Per-Token Decode Latency from Memory Bandwidth](https://www.deep-ml.com/problems/1214) | easy | 2026-11-14 | [solution](problems/1214-per-token-decode-latency-from-memory-bandwidth) |
 | [Classify LLM Prefill vs Decode as Compute-Bound or Memory-Bound](https://www.deep-ml.com/problems/417) | medium | 2026-11-13 | [solution](problems/0417-classify-llm-prefill-vs-decode-as-compute-bound-or-memory-bound) |
 | [Compute Attention Memory Traffic and FLOPs](https://www.deep-ml.com/problems/416) | medium | 2026-11-14 | [solution](problems/0416-compute-attention-memory-traffic-and-flops) |
+| [Graph Attention Layer with Masked Softmax](https://www.deep-ml.com/problems/1476) | medium | 2026-11-14 | [solution](problems/1476-graph-attention-layer-with-masked-softmax) |
 | [GraphSAGE: Mean and Pool Aggregators with Neighbor Sampling](https://www.deep-ml.com/problems/1475) | medium | 2026-11-12 | [solution](problems/1475-graphsage-mean-and-pool-aggregators-with-neighbor-sampling) |
 | [Implement Graph Convolution Network (GCN) Layer](https://www.deep-ml.com/problems/453) | medium | 2026-11-09 | [solution](problems/0453-implement-graph-convolution-network-gcn-layer) |
 | [Number of Islands (Grid Connected Components)](https://www.deep-ml.com/problems/1186) | medium | 2026-11-01 | [solution](problems/1186-number-of-islands-grid-connected-components) |
