@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**22** solved · 15 problems · 0 labs · 7 math
+**23** solved · 16 problems · 0 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Per-Token Decode Latency from Memory Bandwidth](https://www.deep-ml.com/problems/1214) | easy | 2026-11-14 | [solution](problems/1214-per-token-decode-latency-from-memory-bandwidth) |
 | [Classify LLM Prefill vs Decode as Compute-Bound or Memory-Bound](https://www.deep-ml.com/problems/417) | medium | 2026-11-13 | [solution](problems/0417-classify-llm-prefill-vs-decode-as-compute-bound-or-memory-bound) |
 | [Compute Attention Memory Traffic and FLOPs](https://www.deep-ml.com/problems/416) | medium | 2026-11-14 | [solution](problems/0416-compute-attention-memory-traffic-and-flops) |
+| [Estimate KV Cache Size from Model Config](https://www.deep-ml.com/problems/418) | medium | 2026-11-15 | [solution](problems/0418-estimate-kv-cache-size-from-model-config) |
 | [Graph Attention Layer with Masked Softmax](https://www.deep-ml.com/problems/1476) | medium | 2026-11-14 | [solution](problems/1476-graph-attention-layer-with-masked-softmax) |
 | [Graph Isomorphism Network: Sum Aggregation and Injectivity](https://www.deep-ml.com/problems/1477) | medium | 2026-11-15 | [solution](problems/1477-graph-isomorphism-network-sum-aggregation-and-injectivity) |
 | [GraphSAGE: Mean and Pool Aggregators with Neighbor Sampling](https://www.deep-ml.com/problems/1475) | medium | 2026-11-12 | [solution](problems/1475-graphsage-mean-and-pool-aggregators-with-neighbor-sampling) |
