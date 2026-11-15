@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T07:34:06.656Z",
+  "generated_at": "2026-11-15T04:21:24.163Z",
   "items": {
     "math:187": {
       "kind": "math",
@@ -259,6 +259,19 @@
       "last_pushed_at": "2026-11-14T07:34:05.385Z",
       "language": "python",
       "lines": 56
+    },
+    "problem:1477": {
+      "kind": "problem",
+      "id": "1477",
+      "title": "Graph Isomorphism Network: Sum Aggregation and Injectivity",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1477",
+      "path": "problems/1477-graph-isomorphism-network-sum-aggregation-and-injectivity",
+      "first_solved_at": "2026-11-15T04:21:18.501Z",
+      "last_pushed_at": "2026-11-15T04:21:18.501Z",
+      "language": "python",
+      "lines": 50
     }
   }
 }
