@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T07:21:01.917Z",
+  "generated_at": "2026-11-16T14:36:17.571Z",
   "items": {
     "math:187": {
       "kind": "math",
@@ -298,6 +298,19 @@
       "last_pushed_at": "2026-11-15T07:21:01.253Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:1478": {
+      "kind": "problem",
+      "id": "1478",
+      "title": "Message Passing with Edge Features and Scatter Aggregation",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1478",
+      "path": "problems/1478-message-passing-with-edge-features-and-scatter-aggregation",
+      "first_solved_at": "2026-11-16T14:36:15.903Z",
+      "last_pushed_at": "2026-11-16T14:36:15.903Z",
+      "language": "python",
+      "lines": 52
     }
   }
 }
