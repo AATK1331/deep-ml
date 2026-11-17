@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**26** solved · 19 problems · 0 labs · 7 math
+**27** solved · 19 problems · 0 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -40,6 +40,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bytes in the KV Cache (MHA, GQA, MQA, MLA)](https://www.deep-ml.com/math-problems/62) | easy | 2026-11-07 | [solution](math/0062-bytes-in-the-kv-cache-mha-gqa-mqa-mla) |
 | [Arithmetic Intensity of Matmul vs Decode Attention](https://www.deep-ml.com/math-problems/63) | medium | 2026-11-08 | [solution](math/0063-arithmetic-intensity-of-matmul-vs-decode-attention) |
 | [Message Passing as a Framework: Permutation Equivariance and Invariance](https://www.deep-ml.com/math-problems/190) | medium | 2026-11-09 | [solution](math/0190-message-passing-as-a-framework-permutation-equivariance-and-invariance) |
+| [Over-Smoothing: Message Passing as a Low-Pass Filter](https://www.deep-ml.com/math-problems/191) | medium | 2026-11-17 | [solution](math/0191-over-smoothing-message-passing-as-a-low-pass-filter) |
 | [Roofline: Time is the Max of Bytes/BW and FLOPs/Peak](https://www.deep-ml.com/math-problems/64) | medium | 2026-11-09 | [solution](math/0064-roofline-time-is-the-max-of-bytes-bw-and-flops-peak) |
 | [The Graph Laplacian, Its Eigenvectors and Spectral Clustering](https://www.deep-ml.com/math-problems/189) | medium | 2026-10-31 | [solution](math/0189-the-graph-laplacian-its-eigenvectors-and-spectral-clustering) |
 | [Eigendecomposition and SVD](https://www.deep-ml.com/math-problems/16) | hard | 2026-10-31 | [solution](math/0016-eigendecomposition-and-svd) |
