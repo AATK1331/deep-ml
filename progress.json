@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T08:21:30.962Z",
+  "generated_at": "2026-11-23T01:22:05.122Z",
   "items": {
     "math:187": {
       "kind": "math",
@@ -335,6 +335,19 @@
       "path": "math/0191-over-smoothing-message-passing-as-a-low-pass-filter",
       "first_solved_at": "2026-11-17T08:21:21.736Z",
       "last_pushed_at": "2026-11-17T08:21:21.736Z"
+    },
+    "problem:376": {
+      "kind": "problem",
+      "id": "376",
+      "title": "KV Cache for Efficient Autoregressive Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/376",
+      "path": "problems/0376-kv-cache-for-efficient-autoregressive-attention",
+      "first_solved_at": "2026-11-23T01:22:04.075Z",
+      "last_pushed_at": "2026-11-23T01:22:04.075Z",
+      "language": "python",
+      "lines": 38
     }
   }
 }
